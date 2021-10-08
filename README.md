@@ -1,0 +1,2 @@
+# Squads
+SWGOH Squads
