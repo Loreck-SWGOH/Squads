@@ -1,8 +1,90 @@
-# Squads
+# Events
 
-[Ewoks](#Ewoks)
+## Squad Arena
 
-## Ewoks <a name="Ewoks"></a>
+## Grand Arena Championships (GAC)
+
+## Raids
+
+## Territory Battles
+
+## Territory War
+
+### Defense
+
+- [Geonosians](#geonosians-geos)
+
+## Journey Guide
+
+### Solo
+
+#### Emperor Palpatine
+
+#### Grand Master Yoda (GMY)
+
+#### Grand Admiral Thrawn
+
+#### R2-D2
+
+#### BB-8
+
+#### Padme Amidala
+
+- [Geonosians](#geonosians-geos)
+
+#### Commander Luke Skywalker (CLS)
+
+#### Rey (Jedi Training) (RJT)
+
+#### The Mandalorian (Beskar Armor)
+
+#### Jedt Knight Revan (JKR)
+
+#### Darth Revan (DR)
+
+#### Chewbacca
+
+#### C-3PO
+
+- [Ewoks](#ewoks)
+
+#### Darth Malak
+
+#### General Skywalker (GAS)
+
+#### Jedi Knight Luke Skywalker (JKLS)
+
+#### Chimaera
+
+#### Han's Milennium Falcom
+
+#### Executor
+
+### Galactic Legends (GLs)
+
+#### Lord Vader
+
+#### Jedi Master Kenobi (JMK)
+
+#### Jedi Master Luke Skywalker (JMLS)
+
+#### Sith Eternal Emperor (SEE)
+
+#### Supreme Leader Kylo Ren (SLKR)
+
+#### Rey
+
+## Galactic Battles
+
+## Galactic Challenges
+
+## Fleet Arena
+
+
+
+
+
+## Ewoks
 
 The Ewoks team is needed for the C3PO event, Contact Protocol.
 
