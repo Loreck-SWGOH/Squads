@@ -1,38 +1,20 @@
 # Events
 
-## Squad Arena
-
-## Grand Arena Championships (GAC)
-
-## Raids
-
-## Territory Battles
-
-## Territory War
-
-### Defense
-
-- [Geonosians](#geonosians-geos)
-
-## Journey Guide
-
-### Solo
-
-#### Emperor Palpatine
-
-#### Grand Master Yoda (GMY)
-
-#### Grand Admiral Thrawn
-
-#### R2-D2
-
-#### BB-8
-
-#### Padme Amidala
-
-- [Geonosians](#geonosians-geos)
-
-#### Commander Luke Skywalker (CLS)
+- [Squad Arena](Events/Squad%20Arena.md)
+- [Grand Arena Championships (GAC)](Events/GAC.md)
+- [Raids](Events/Raids.md)
+- [Territory Battles](Events/TB.md)
+- [Territory War](Events/TW.md)
+- Journey Guide
+  - Solo Journeys
+    - Emperor Palpatine
+    - Grand Master Yoda (GMY)
+    - Grand Admiral Thrawn
+    - R2-D2
+    - BB-8
+    - Padme Amidala
+      - [Geonosians](#geonosians-geos)
+    - Commander Luke Skywalker (CLS)
 
 #### Rey (Jedi Training) (RJT)
 
@@ -74,9 +56,9 @@
 
 #### Rey
 
-## Galactic Battles
+- [Conquest](Events/Conquest.md)
 
-## Galactic Challenges
+- [Galactic Challenges](Events/Galatic%20Challenges.md)
 
 ## Fleet Arena
 
@@ -146,58 +128,3 @@ Chief Chirpa, Ewok Elder (EE), Logray, Paploo, Wicket
 
 ## Geonosians (Geos)
 
-### Teams
-
-Geonosian Brood Alpha (GBA), Geonosian Soldier, Geonosian Spy, Sun Fac, Poggle the Lesser
-
-#### Mods
-
-#### Geonosian Brood Alpha (GBA)
-
-<table border=1>
-  <thead>
-    <tr>
-      <th rowspan=2> Slot(s) </th>
-      <th colspan=2> Primaries </th>
-     </tr>
-    <tr>
-      <th> In Game </th>
-      <th> Gaming-Fans </th>
-     </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td> Mod Sets </td>
-        <td> Speed, Tenacity </td>
-        <td> Health (3) </td>
-       </tr>
-      <tr>
-        <td> Secondaries </td>
-        <td> Speed, Protection, Tenacity, Health </td>
-       </tr>
-      <tr>
-        <td> Arrow </td>
-        <td> Speed </td>
-        <td> Speed </td>
-       </tr>
-      <tr>
-        <td> Triangle </td>
-        <td> Protection </td>
-        <td> Health </td>
-       </tr>
-      <tr>
-        <td> Circle </td>
-        <td> Protection </td>
-        <td> Health or Protection </td>
-       </tr>
-      <tr>
-        <td> Plus </td>
-        <td> Tenacity </td>
-        <td> Health or Potency </td>
-       </tr>
-  </tbody>
-</table>
-
-#### Counters
-
-Jawas
