@@ -7,13 +7,15 @@ Back to [Events](../README.md)
 # Teams
 
 ## Territory War, Defense
+## Padme Amidala Journey
+
 
 - [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
   [Sun Fac](#sun-fac), [Geonosian Soldier](#geonosian-soldier),
   [Geonosian Spy](#geonosian-spy), [Poggle the Lesser](#poggle-the-lesser)
 
 
-## Geonosian Brood Alpha (GBA)
+### Geonosian Brood Alpha (GBA)
 
 <table border=1>
   <thead>
@@ -52,7 +54,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-## Sun Fac
+### Sun Fac
 
 <table border=1>
   <thead>
@@ -91,7 +93,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-## Geonosian Soldier
+### Geonosian Soldier
 
 <table border=1>
   <thead>
@@ -130,7 +132,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-## Geonosian Spy
+### Geonosian Spy
 
 <table border=1>
   <thead>
@@ -169,7 +171,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-## Poggle the Lesser
+### Poggle the Lesser
 
 <table border=1>
   <thead>
@@ -208,7 +210,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-Back to [Territory Wars](../Events/TW.md)
+Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
 
 ---
 

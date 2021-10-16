@@ -4,7 +4,7 @@
 
 ---
 
-- Solo Journeys
+### Solo Journeys
   - Emperor Palpatine
   - Grand Master Yoda (GMY)
   - Grand Admiral Thrawn
