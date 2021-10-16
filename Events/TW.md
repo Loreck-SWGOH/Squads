@@ -2,7 +2,11 @@
 
 [Back to Events](../README.md)
 
-## Defense
-- [Geonosians](#geonosians-geos)
+---
 
-## Offense
+### Defense
+  - [Geonosians](../Teams/Geos.md)
+
+---
+
+### Offense

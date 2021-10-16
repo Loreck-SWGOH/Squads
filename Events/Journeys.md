@@ -2,6 +2,8 @@
 
 [Back to Events](../README.md)
 
+---
+
 - Solo Journeys
   - Emperor Palpatine
   - Grand Master Yoda (GMY)
@@ -23,16 +25,10 @@
   - Han's Milennium Falcom
   - Executor
   - Galactic Legends (GLs)
-
-#### Lord Vader
-
-#### Jedi Master Kenobi (JMK)
-
-#### Jedi Master Luke Skywalker (JMLS)
-
-#### Sith Eternal Emperor (SEE)
-
-#### Supreme Leader Kylo Ren (SLKR)
-
-#### Rey
+  - Lord Vader
+  - Jedi Master Kenobi (JMK)
+  - Jedi Master Luke Skywalker (JMLS)
+  - Sith Eternal Emperor (SEE)
+  - Supreme Leader Kylo Ren (SLKR)
+  - Rey
 

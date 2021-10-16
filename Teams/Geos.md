@@ -2,57 +2,215 @@
 
 Back to [Events](../README.md)
 
+---
+
 # Teams
 
-- [Geonosian Brood Alpha (GBA)](#GBA), Sun Fac, Geonosian Soldier, Geonosian Spy, Poggle the Lesser
+## Territory War, Defense
+
+- [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
+  [Sun Fac](#sun-fac), [Geonosian Soldier](#geonosian-soldier),
+  [Geonosian Spy](#geonosian-spy), [Poggle the Lesser](#poggle-the-lesser)
 
 
-## <a name="GBA"></a> Geonosian Brood Alpha (GBA)
+## Geonosian Brood Alpha (GBA)
 
 <table border=1>
   <thead>
     <tr>
-      <th rowspan=2> Slot(s) </th>
-      <th colspan=2> Primaries </th>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots (Primaries) </th>
      </tr>
     <tr>
-      <th> In Game </th>
-      <th> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></th>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
      </tr>
     </thead>
     <tbody>
       <tr>
-        <td> Mod Sets </td>
-        <td> Crit Damage, Crit Chance </td>
-        <td> Speed, Health </td>
-       </tr>
-      <tr>
-        <td> Secondaries </td>
-        <td> Speed, Crit Chance, Protection, Offense </td>
-        <td> Speed, Health, Protection, Tenacity </td>
-       </tr>
-      <tr>
-        <td> Arrow </td>
+        <td> <b>In Game</b> </td>
+        <td> Spd, Ten </td>
+        <td> Spd, Prot, Ten, Heal </td>
         <td> Speed </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td> Tenacity </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal (3) </td>
+        <td> Spd, CC, Pot, Ten </td>
         <td> Speed </td>
-       </tr>
-      <tr>
-        <td> Triangle </td>
-        <td> Crit Damage </td>
         <td> Health </td>
-       </tr>
-      <tr>
-        <td> Circle </td>
-        <td> Protection </td>
         <td> Health </td>
-       </tr>
-      <tr>
-        <td> Plus </td>
-        <td> Protection </td>
         <td> Health </td>
        </tr>
   </tbody>
 </table>
+
+## Sun Fac
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Def (3) </td>
+        <td> Prot, Heal, Spd, Ten </td>
+        <td> Crit Avoid </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td> Protection </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal, Def (2) </td>
+        <td> Spd, CC, Pot, Ten </td>
+        <td> Heal/Prot/Def </td>
+        <td> Heal/Prot </td>
+        <td> Heal/Prot </td>
+        <td> Pot/Prot </td>
+       </tr>
+  </tbody>
+</table>
+
+## Geonosian Soldier
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Protection </td>
+        <td> Protection </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CC, CD </td>
+        <td> Heal, Prot, Pot </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Protection </td>
+        <td> Offense </td>
+       </tr>
+  </tbody>
+</table>
+
+## Geonosian Spy
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Protection </td>
+        <td> Protection </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CC, CD </td>
+        <td> Speed, CC, CD, Pot </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Protection </td>
+        <td> Offense </td>
+       </tr>
+  </tbody>
+</table>
+
+## Poggle the Lesser
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Spd, Heal </td>
+        <td> Spd, CC, Prot, Ten </td>
+        <td> Speed </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td> Protection </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Speed, Pot </td>
+        <td> Speed, Heal, Pot </td>
+        <td> Speed </td>
+        <td> Health/Prot </td>
+        <td> Protection </td>
+        <td> Potency </td>
+       </tr>
+  </tbody>
+</table>
+
+Back to [Territory Wars](../Events/TW.md)
+
+---
 
 ## Counters
 
