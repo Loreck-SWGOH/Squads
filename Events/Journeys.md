@@ -8,7 +8,7 @@
   - Grand Admiral Thrawn
   - R2-D2
   - BB-8
-  - [Padme Amidala](../Teams/Geos)
+  - [Padme Amidala](../Teams/Geos.md)
   - Commander Luke Skywalker (CLS)
   - Rey (Jedi Training) (RJT)
   - The Mandalorian (Beskar Armor)
