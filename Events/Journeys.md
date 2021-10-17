@@ -10,14 +10,14 @@
   - Grand Admiral Thrawn
   - R2-D2
   - BB-8
-  - [Padme Amidala](../Teams/Geos.md)
+  - [Padme Amidala](../Teams/Geos.md#padme-amidala-journey)
   - Commander Luke Skywalker (CLS)
   - Rey (Jedi Training) (RJT)
   - The Mandalorian (Beskar Armor)
   - Jedt Knight Revan (JKR)
   - Darth Revan (DR)
   - Chewbacca
-  - [C-3PO](../Teams/Ewoks.md)
+  - [C-3PO](../Teams/Ewoks.md#c-3po-event-contact-protocol)
   - [Darth Malek](../Teams/Darth%20Malek%20Event.md)
   - General Skywalker (GAS)
   - Jedi Knight Luke Skywalker (JKLS)

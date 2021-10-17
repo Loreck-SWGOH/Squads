@@ -5,9 +5,9 @@ Back to [Events](../README.md)
 ---
 
 ## The Mandalorian (Beskar Armor) Tier VI Event
-  - [Chief Nesbit](#chief-nesbit), Geonosian Soldier, Geonosian Spy, Sun Fac, Poggle 
-    the 
-    Lesser
+## Padme Amidala Journey
+  - [Chief Nesbit](#chief-nesbit), Geonosian Soldier, Geonosian Spy, Sun Fac,
+    Poggle the Lesser
 
 ### Chief Nesbit
 
@@ -52,4 +52,4 @@ Back to [Events](../README.md)
 
 ## Counters
 
-
+-- Ewoks
