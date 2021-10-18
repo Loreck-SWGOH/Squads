@@ -216,4 +216,4 @@ Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md
 
 ## Counters
 
-- [Jawas](Jawas.md)
+- [Jawas](Jawas.md#geonosian-counter)

@@ -206,7 +206,7 @@ during the TBS events.
   </tbody>
 </table>
 
-Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
+Back to [Geonosians](../Teams/Geos.md#counters), [Journey Guide](../Events/Journeys.md)
 
 ---
 
