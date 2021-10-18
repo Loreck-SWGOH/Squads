@@ -48,6 +48,8 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
+Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
+
 ---
 
 ## Counters
