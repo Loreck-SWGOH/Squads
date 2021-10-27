@@ -8,12 +8,11 @@ Back to [Events](../README.md)
 
 ## Territory War, Defense
 ## Padme Amidala Journey
-
+## Territory Battle, Battleground Special Mission
 
 - [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
   [Sun Fac](#sun-fac), [Geonosian Soldier](#geonosian-soldier),
   [Geonosian Spy](#geonosian-spy), [Poggle the Lesser](#poggle-the-lesser)
-
 
 ### Geonosian Brood Alpha (GBA)
 
@@ -210,7 +209,8 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
+Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md),
+[Territory Battles](../Events/TB.md#geonosis-separatist-might)
 
 ---
 

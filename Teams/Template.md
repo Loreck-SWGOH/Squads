@@ -11,11 +11,11 @@ Back to [Events](../README.md)
 
 ### Chief Nesbit
 
-<table border=1>
+<table border=1, style="empty-cells: show;">
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -24,6 +24,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -35,6 +36,7 @@ Back to [Events](../README.md)
         <td> Crit Damage </td>
         <td> Protection </td>
         <td> Protection </td>
+        <td></td>
        </tr>
       <tr>
         <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
@@ -44,6 +46,7 @@ Back to [Events](../README.md)
         <td> Health </td>
         <td> Health </td>
         <td> Health </td>
+        <td></td>
        </tr>
   </tbody>
 </table>

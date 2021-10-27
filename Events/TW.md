@@ -1,4 +1,4 @@
-# Territory War (TW)
+# Territory War (TW) Teams
 
 [Back to Events](../README.md)
 
@@ -17,6 +17,17 @@ effectiveness between the teams.
 
 ### Defense
   - [Geonosians](../Teams/Geos.md#territory-war-defense)
+  - [Padme Amidala]
+  - [Separatist Droids]
+  - [First Order]
+  - [Mon Mothmas]
+  - [General Anakin Skywalker]
+  - [Carth Onasi]
+  - [Darth Revan]
+  - [Sith Eternal Emperor]
+  - [Jedi Master Kenobi]
+  - [Jedi Master Luke Skywalker]
+  - [Rey]
 
 ---
 
@@ -26,4 +37,15 @@ effectiveness between the teams.
 
 ### Counters
   - [Geonosians](../Teams/Geos.md#counters)
+  - [Padme Amidala]
+  - [Separatist Droids]
+  - [First Order]
+  - [Mon Mothmas]
+  - [General Anakin Skywalker]
+  - [Carth Onasi]
+  - [Darth Revan]
+  - [Sith Eternal Emperor]
+  - [Jedi Master Kenobi]
+  - [Jedi Master Luke Skywalker]
+  - [Rey]
 

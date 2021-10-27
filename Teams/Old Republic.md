@@ -1,4 +1,4 @@
-# Darth Malek Event Mods
+# Old Republic Team Mods
 
 Back to [Events](../README.md)
 
@@ -11,8 +11,8 @@ Back to [Events](../README.md)
     [Bastila Shan](#bastila-shan), [Zaalbaar](#zaalbaar), 
     [Mission Vao](#mission-vao)
 
-## [Darth Malek Dark Side Event](#dark-side-event)
-  - [Darth Revan](#darth-revan), [HK-47](#hk-47),
+## [Territory War Defense](#territory-war-defense)
+  - [Carth Onasi](#carth-onasi), [HK-47](#hk-47),
     [Bastila Shan (Fallen)](#bastila-shan-fallen),
     [Carth Onasi](#carth-onasi), [Canderous Ordo](#canderous-ordo)
 
@@ -47,6 +47,16 @@ Back to [Events](../README.md)
         <td> CC </td>
         <td> Protection </td>
         <td> Protection </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Off/Speed, Heal </td>
+        <td> CD, CC, Off, Def, Pot, Ten </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Health </td>
+        <td> Heal/Off </td>
         <td></td>
        </tr>
       <tr>
@@ -102,6 +112,16 @@ Back to [Events](../README.md)
         <td></td>
        </tr>
       <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal (3) </td>
+        <td> Heal, Spd, Def </td>
+        <td> Speed </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td></td>
+       </tr>
+      <tr>
         <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
         <td> Off, CC </td>
         <td> Off, CC, Spd </td>
@@ -129,9 +149,9 @@ Back to [Teams](#teams),
 
 ---
 
-## Dark Side Event
+## Territory War Defense
 
-### Darth Revan
+### Carth Onasi
 
 <table border=1>
   <thead>
@@ -157,6 +177,15 @@ Back to [Teams](#teams),
         <td> Crit Damage </td>
         <td> Protection </td>
         <td> Protection </td>
+       </tr>
+      <tr>
+        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Spd, Heal </td>
+        <td> Spd, Heal, Prot, Ten </td>
+        <td> Speed </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> Health </td>
        </tr>
   </tbody>
 </table>
