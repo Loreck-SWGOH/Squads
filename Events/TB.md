@@ -10,7 +10,7 @@
   - Separatist Command
   - Core Ship Yards
   - Sand Dunes
-  - [Battleground](../Teams/Geos#territory-battle-battleground-special-mission)
+  - [Battleground](../Teams/Geos.md#territory-battle-battleground-special-mission)
   - Contested Airspace
   - Rear Flank
   - Count Dooku's Hangar
