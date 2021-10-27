@@ -39,7 +39,7 @@ Back to [Events](../README.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Spd, Heal </td>
         <td> Spd, Heal, Prot, Ten </td>
         <td> Speed </td>

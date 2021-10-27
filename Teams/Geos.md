@@ -42,7 +42,7 @@ Back to [Events](../README.md)
         <td> Tenacity </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal (3) </td>
         <td> Spd, CC, Pot, Ten </td>
         <td> Speed </td>
@@ -81,7 +81,7 @@ Back to [Events](../README.md)
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal, Def (2) </td>
         <td> Spd, CC, Pot, Ten </td>
         <td> Heal/Prot/Def </td>
@@ -120,7 +120,7 @@ Back to [Events](../README.md)
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CC, CD </td>
         <td> Heal, Prot, Pot </td>
         <td> Speed </td>
@@ -159,7 +159,7 @@ Back to [Events](../README.md)
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CC, CD </td>
         <td> Speed, CC, CD, Pot </td>
         <td> Speed </td>
@@ -198,7 +198,7 @@ Back to [Events](../README.md)
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Speed, Pot </td>
         <td> Speed, Heal, Pot </td>
         <td> Speed </td>

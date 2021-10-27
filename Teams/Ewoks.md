@@ -44,7 +44,7 @@ used as a defensive team during Territory Wars.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Spd, Heal </td>
         <td> Spd, Heal, Prot, Ten </td>
         <td> Speed </td>
@@ -53,7 +53,7 @@ used as a defensive team during Territory Wars.
         <td> Health </td>
        </tr>
       <tr>
-        <td> <a href="#https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
+        <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Spd, Heal </td>
        </tr>
   </tbody>
@@ -87,7 +87,7 @@ used as a defensive team during Territory Wars.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal Def/Ten </td>
         <td> Spd, Heal, Prot, Ten </td>
         <td> Speed </td>
@@ -96,7 +96,7 @@ used as a defensive team during Territory Wars.
         <td> Health </td>
        </tr>
       <tr>
-        <td> <a href="#https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
+        <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Spd, Heal </td>
        </tr>
   </tbody>
@@ -130,7 +130,7 @@ used as a defensive team during Territory Wars.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal, Def/CC (2) </td>
         <td> Spd, Heal, Prot, Pot </td>
         <td> Speed </td>
@@ -139,7 +139,7 @@ used as a defensive team during Territory Wars.
         <td> Health </td>
        </tr>
       <tr>
-        <td> <a href="#https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
+        <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Heal (3) </td>
        </tr>
   </tbody>
@@ -173,7 +173,7 @@ used as a defensive team during Territory Wars.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Def (2), Heal/Pot </td>
         <td> Heal, Def, Prot, Pot </td>
         <td> Prot </td>
@@ -182,7 +182,7 @@ used as a defensive team during Territory Wars.
         <td> Def </td>
        </tr>
       <tr>
-        <td> <a href="#https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
+        <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Pot, Ten </td>
        </tr>
   </tbody>
@@ -216,7 +216,7 @@ used as a defensive team during Territory Wars.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CD, CC </td>
         <td> Spd, CD, Heal, Prot </td>
         <td> Speed </td>
@@ -225,7 +225,7 @@ used as a defensive team during Territory Wars.
         <td> Health </td>
        </tr>
       <tr>
-        <td> <a href="#https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
+        <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> CD, CC </td>
        </tr>
   </tbody>

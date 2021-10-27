@@ -39,7 +39,7 @@ during the TBS events.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal/Def, Ten </td>
         <td> Spd, Heal, Def, Prot </td>
         <td> Speed </td>
@@ -78,7 +78,7 @@ during the TBS events.
         <td> Potency </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Pot (3) </td>
         <td> Spd, Heal, CC, Prot </td>
         <td> Speed </td>
@@ -117,7 +117,7 @@ during the TBS events.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CC, CD </td>
         <td> Spd, CC, Pot </td>
         <td> Speed </td>
@@ -156,7 +156,7 @@ during the TBS events.
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CC, Pot (2) </td>
         <td> Spd, CC, Heal, Pot </td>
         <td> Speed </td>
@@ -195,7 +195,7 @@ during the TBS events.
         <td> Potency </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal (2), Pot (2) </td>
         <td> Spd, Heal, Pot, Def </td>
         <td> Speed </td>

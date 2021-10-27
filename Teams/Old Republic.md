@@ -50,7 +50,7 @@ Back to [Events](../README.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Off/Speed, Heal </td>
         <td> CD, CC, Off, Def, Pot, Ten </td>
         <td> Speed </td>
@@ -112,7 +112,7 @@ Back to [Events](../README.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Heal (3) </td>
         <td> Heal, Spd, Def </td>
         <td> Speed </td>
@@ -179,7 +179,7 @@ Back to [Teams](#teams),
         <td> Protection </td>
        </tr>
       <tr>
-        <td> <a href="#https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> Spd, Heal </td>
         <td> Spd, Heal, Prot, Ten </td>
         <td> Speed </td>
