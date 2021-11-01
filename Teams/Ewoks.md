@@ -22,7 +22,7 @@ used as a defensive team during Territory Wars.
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -31,6 +31,7 @@ used as a defensive team during Territory Wars.
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -56,6 +57,15 @@ used as a defensive team during Territory Wars.
         <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Spd, Heal </td>
        </tr>
+      <tr>
+        <td> <a href="https://wiki.swgoh.help/wiki/A_Quickish_Guide_To_Murder_Bears">SWGOH Wiki</a></td>
+        <td> Spd, CC </td>
+        <td> </td>
+        <td> </td>
+        <td> CC </td>
+        <td> </td>
+        <td> </td>
+       </tr>
   </tbody>
 </table>
 
@@ -65,7 +75,7 @@ used as a defensive team during Territory Wars.
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -74,6 +84,7 @@ used as a defensive team during Territory Wars.
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -99,6 +110,15 @@ used as a defensive team during Territory Wars.
         <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Spd, Heal </td>
        </tr>
+      <tr>
+        <td> <a href="https://wiki.swgoh.help/wiki/A_Quickish_Guide_To_Murder_Bears">SWGOH Wiki</a></td>
+        <td> Spd, Heal </td>
+        <td> </td>
+        <td> </td>
+        <td> Heal </td>
+        <td> Heal </td>
+        <td> Heal </td>
+       </tr>
   </tbody>
 </table>
 
@@ -108,7 +128,7 @@ used as a defensive team during Territory Wars.
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -117,6 +137,7 @@ used as a defensive team during Territory Wars.
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -141,6 +162,12 @@ used as a defensive team during Territory Wars.
       <tr>
         <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Heal (3) </td>
+        <td colspan="5"> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://wiki.swgoh.help/wiki/A_Quickish_Guide_To_Murder_Bears">SWGOH Wiki</a></td>
+        <td> Spd, Pot </td>
+        <td colspan="5"> </td>
        </tr>
   </tbody>
 </table>
@@ -151,7 +178,7 @@ used as a defensive team during Territory Wars.
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -160,6 +187,7 @@ used as a defensive team during Territory Wars.
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -185,6 +213,10 @@ used as a defensive team during Territory Wars.
         <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> Pot, Ten </td>
        </tr>
+      <tr>
+        <td> <a href="https://wiki.swgoh.help/wiki/A_Quickish_Guide_To_Murder_Bears">SWGOH Wiki</a></td>
+        <td> Spd, Heal </td>
+       </tr>
   </tbody>
 </table>
 
@@ -194,7 +226,7 @@ used as a defensive team during Territory Wars.
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -203,6 +235,7 @@ used as a defensive team during Territory Wars.
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -227,6 +260,15 @@ used as a defensive team during Territory Wars.
       <tr>
         <td> <a href="https://forums.galaxy-of-heroes.starwars.ea.com/discussion/191452/modding-ewoks-for-c3po-event">SWGOH Forums</a></td>
         <td> CD, CC </td>
+       </tr>
+      <tr>
+        <td> <a href="https://wiki.swgoh.help/wiki/A_Quickish_Guide_To_Murder_Bears">SWGOH Wiki</a></td>
+        <td> Spd, CC </td>
+        <td> CD, Offens</td>
+        <td> </td>
+        <td> Heal </td>
+        <td> Heal </td>
+        <td> Heal </td>
        </tr>
   </tbody>
 </table>
