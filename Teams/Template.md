@@ -34,8 +34,7 @@ Back to [Events](../README.md)
         <td> Spd, CC, Prot, Off </td>
         <td> Speed </td>
         <td> Crit Damage </td>
-        <td> Protection </td>
-        <td> Protection </td>
+        <td colspan="2"> &nbsp </td>
         <td></td>
        </tr>
       <tr>
