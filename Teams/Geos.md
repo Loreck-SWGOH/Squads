@@ -8,7 +8,7 @@ Back to [Events](../README.md)
 
 ## Territory War, Defense
 ## Padme Amidala Journey
-## Territory Battle, Battleground Special Mission
+## Geonosis: Separatist Might, Battleground Special Mission
 
 - [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
   [Sun Fac](#sun-fac), [Geonosian Soldier](#geonosian-soldier),
@@ -20,7 +20,7 @@ Back to [Events](../README.md)
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -29,6 +29,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -59,7 +60,7 @@ Back to [Events](../README.md)
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -68,6 +69,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -98,7 +100,7 @@ Back to [Events](../README.md)
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -107,6 +109,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -137,7 +140,7 @@ Back to [Events](../README.md)
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -146,6 +149,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -176,7 +180,7 @@ Back to [Events](../README.md)
   <thead>
     <tr>
       <th rowspan=2> Sources </th>
-      <th colspan=6> Slots (Primaries) </th>
+      <th colspan=7> Slots (Primaries) </th>
      </tr>
     <tr>
       <th style="white-space:nowrap;"> Mod Sets </th>
@@ -185,6 +189,7 @@ Back to [Events](../README.md)
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
