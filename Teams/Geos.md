@@ -226,9 +226,9 @@ Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md
 To survive the Battleground Special Mission against Wat Tambor, the team should be modded for 
 both high protection and health.
 
-- [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
-  [Sun Fac](#sun-fac), [Geonosian Soldier](#geonosian-soldier),
-  [Geonosian Spy](#geonosian-spy), [Poggle the Lesser](#poggle-the-lesser)
+- [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba-1),
+  [Sun Fac](#sun-fac-1), [Geonosian Soldier](#geonosian-soldier-1),
+  [Geonosian Spy](#geonosian-spy-1), [Poggle the Lesser](#poggle-the-lesser-1)
 
 ### Geonosian Brood Alpha (GBA)
 
