@@ -31,10 +31,6 @@ effectiveness between the teams.
 
 ---
 
-### Offense
-
----
-
 ### Counters
   - [Geonosians](../Teams/Geos.md#counters)
   - [Padme Amidala]
