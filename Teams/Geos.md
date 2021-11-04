@@ -55,6 +55,16 @@ Back to [Events](../README.md)
         <td> Health </td>
         <td> Health </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
+        <td> Heal (3) </td>
+        <td> Spd, Prot, Heal </td>
+        <td> Speed </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> +80 speed </td>
+       </tr>
   </tbody>
 </table>
 
@@ -94,6 +104,16 @@ Back to [Events](../README.md)
         <td> Heal/Prot </td>
         <td> Heal/Prot </td>
         <td> Pot/Prot </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
+        <td> Heal (3) </td>
+        <td> Spd, Prot, Heal </td>
+        <td> Speed </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> +70 speed </td>
        </tr>
   </tbody>
 </table>
@@ -135,6 +155,16 @@ Back to [Events](../README.md)
         <td> Protection </td>
         <td> Offense </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
+        <td> CC, CD </td>
+        <td> Spd, Off, CC </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td> 75% CC; +65 speed </td>
+       </tr>
   </tbody>
 </table>
 
@@ -175,6 +205,16 @@ Back to [Events](../README.md)
         <td> Protection </td>
         <td> Offense </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
+        <td> CC, CD </td>
+        <td> Spd, Off, Prot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td> 6E: Square, Cross, Tri.; +80 speed </td>
+       </tr>
   </tbody>
 </table>
 
@@ -214,6 +254,16 @@ Back to [Events](../README.md)
         <td> Health/Prot </td>
         <td> Protection </td>
         <td> Potency </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
+        <td> Heal (3) </td>
+        <td> Spd, Prot, Heal </td>
+        <td> Speed </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> +80 speed; Pot not needed </td>
        </tr>
   </tbody>
 </table>
