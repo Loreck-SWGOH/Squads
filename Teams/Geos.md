@@ -242,9 +242,9 @@ Back to [Events](../README.md)
         <td> Spd, Heal </td>
         <td> Spd, CC, Prot, Ten </td>
         <td> Speed </td>
-        <td> Protection </td>
-        <td> Protection </td>
-        <td> Protection </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
        </tr>
       <tr>
         <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
@@ -252,8 +252,8 @@ Back to [Events](../README.md)
         <td> Speed, Heal, Pot </td>
         <td> Speed </td>
         <td> Health/Prot </td>
-        <td> Protection </td>
-        <td> Potency </td>
+        <td> Prot </td>
+        <td> Pot </td>
        </tr>
       <tr>
         <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
