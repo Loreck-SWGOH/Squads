@@ -16,6 +16,9 @@
   - Count Dooku's Hangar
   - Republic Fleet
 
+### Geonosis: Republic Offensive
+
+
 ### Hoth: Rebel Assault
 
   - Darth Vader
