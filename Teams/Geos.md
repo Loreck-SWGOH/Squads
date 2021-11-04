@@ -192,7 +192,7 @@ Back to [Events](../README.md)
         <td> CD, CC </td>
         <td> Spd, CC, Prot, Off </td>
         <td> Speed </td>
-        <td> Crit Dam </td>
+        <td> CD </td>
         <td> Prot </td>
         <td> Prot </td>
        </tr>
@@ -203,7 +203,7 @@ Back to [Events](../README.md)
         <td> Speed </td>
         <td> CD </td>
         <td> Prot </td>
-        <td> Offense </td>
+        <td> Off </td>
        </tr>
       <tr>
         <td> <a href="https://www.youtube.com/channel/UCfMcn-SLGO_tOsHa3a0BbPA">Zaraos</a></td>
