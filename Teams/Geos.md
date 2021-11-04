@@ -193,16 +193,16 @@ Back to [Events](../README.md)
         <td> Spd, CC, Prot, Off </td>
         <td> Speed </td>
         <td> Crit Dam </td>
-        <td> Protection </td>
-        <td> Protection </td>
+        <td> Prot </td>
+        <td> Prot </td>
        </tr>
       <tr>
         <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
         <td> CC, CD </td>
         <td> Speed, CC, CD, Pot </td>
         <td> Speed </td>
-        <td> Crit Dam </td>
-        <td> Protection </td>
+        <td> CD </td>
+        <td> Prot </td>
         <td> Offense </td>
        </tr>
       <tr>
