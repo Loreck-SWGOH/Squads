@@ -10,38 +10,28 @@ zones in the opposing area by choosing teams to battle against the
 previously placed defensive teams. At the start of the offensive phase only 
 the front zones are open for attack. Other zones become open for attack when 
 adjacent zones are cleared. Characters used in defensive teams and offensive 
-teams are mutually exclusive, requiring that guilds balance the 
+teams are mutually exclusive, requiring guilds to balance the 
 effectiveness between the teams.
 
 ---
 
 ### Defense
-  - [Geonosians](../Teams/Geos.md#territory-war-defense)
-  - [Padme Amidala]
-  - [Separatist Droids]
-  - [First Order]
-  - [Mon Mothmas]
-  - [General Anakin Skywalker]
-  - [Carth Onasi]
-  - [Darth Revan]
-  - [Sith Eternal Emperor]
-  - [Jedi Master Kenobi]
-  - [Jedi Master Luke Skywalker]
-  - [Rey]
+  - [Geonosians](../Teams/Geos.md#territory-war-defense) ([Counters](../Teams/Geos.md#counters))
+  - [Padme Amidala] (Counters)
+  - [Separatist Droids] (Counters)
+  - [First Order] (Counters)
+  - [Mon Mothmas] (Counters)
+  - [General Anakin Skywalker] (Counters)
+  - [Carth Onasi] (Counters)
+  - [Darth Revan] (Counters)
+  - [Sith Eternal Emperor] (Counters)
+  - [Jedi Master Kenobi] (Counters)
+  - [Jedi Master Luke Skywalker] (Counters)
+  - [Rey] (Counters)
 
 ---
 
-### Counters
-  - [Geonosians](../Teams/Geos.md#counters)
-  - [Padme Amidala]
-  - [Separatist Droids]
-  - [First Order]
-  - [Mon Mothmas]
-  - [General Anakin Skywalker]
-  - [Carth Onasi]
-  - [Darth Revan]
-  - [Sith Eternal Emperor]
-  - [Jedi Master Kenobi]
-  - [Jedi Master Luke Skywalker]
-  - [Rey]
+### Offense
+  - [Darth Vadar]
+  - [Jedi Knight Revan]
 
