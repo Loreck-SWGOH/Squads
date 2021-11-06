@@ -276,3 +276,8 @@ used as a defensive team during Territory Wars.
 Back to [Journey Guide](../Events/Journeys.md)
 
 ---
+## Counters
+
+- [Phoenix Squad](Phoenix.md#ewok-counter)
+
+Back to [Territory Wars](../Events/TW.md#defense)
