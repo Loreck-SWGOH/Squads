@@ -18,6 +18,18 @@
 
 ### Geonosis: Republic Offensive
 
+  - Rear Flank
+  - Count Dooku's Hangar
+  - Galactic Republic Fleet
+  - Sand Dunes
+  - [Battleground](../Teams/Geos.md#geonosis-separatist-might-battleground-special-mission)
+  - Contested Airspace
+  - Canyons
+  - Droid Factory
+  - Petranaki Arena
+  - Separatist Command
+  - Core Ship Yards
+
 
 ### Hoth: Rebel Assault
 
