@@ -1,13 +1,17 @@
 # Ewok Team Mods
 
+The Ewoks are used during the C-3PO event, Contact Protocol. They can also be 
+used as a defensive team during Territory Wars.
+
 Back to [Events](../README.md)
 
 ---
 
 # Teams
 
-The Ewoks are used during the C-3PO event, Contact Protocol. They can also be 
-used as a defensive team during Territory Wars.
+- [C-3PO Event](#c-3po-event-contact-protocol)
+
+---
 
 ## C-3PO Event, Contact Protocol.
 

@@ -10,6 +10,12 @@ Back to [Events](../README.md)
 
 # Teams
 
+- [Territory War, Defense](#territory-war-defense)
+- [Padme Amidala Journey](#padme-amidala-journey)
+- [Geonomis: Separist Might, Special Mission](#geonosis-separatist-might-battleground-special-mission)
+
+---
+
 ## Territory War, Defense
 ## Padme Amidala Journey
 
@@ -268,7 +274,7 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
-Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
+Back to [Territory Wars](../Events/TW.md#defense), [Journey Guide](../Events/Journeys.md)
 
 ---
 ## Geonosis: Separatist Might, Battleground Special Mission
@@ -486,3 +492,5 @@ Back to [Territory Battles](../Events/TB.md#geonosis-separatist-might)
 ## Counters
 
 - [Jawas](Jawas.md#geonosian-counter)
+
+Back to [Territory Wars](../Events/TW.md#defense)

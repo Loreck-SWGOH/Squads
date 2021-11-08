@@ -4,6 +4,13 @@ Back to [Events](../README.md)
 
 ---
 
+# Teams
+
+- [Mandalarian Tier VI Event](#the-mandalorian-beskar-armor-tier-vi-event)
+- [Padme Amidala Journey](#padme-amidala-journey)
+
+---
+
 ## The Mandalorian (Beskar Armor) Tier VI Event
 ## Padme Amidala Journey
   - [Chief Nesbit](#chief-nesbit), Geonosian Soldier, Geonosian Spy, Sun Fac,

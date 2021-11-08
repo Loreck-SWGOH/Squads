@@ -4,8 +4,13 @@ Back to [Events](../README.md)
 
 The Jawas are used as counters to Geonosian teams and as squad members 
 during the TBS events.
+---
 
 # Teams
+
+- [Geonosian Counter](#geonosian-counter)
+
+---
 
 ## Geonosian Counter
   - [Chief Nesbit](#chief-nesbit), [Jawa Scavenger](#jawa-scavenger),
