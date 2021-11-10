@@ -1,6 +1,8 @@
-# Terriotory Battles (TB) Teams
+# Territory Battle (TB) Teams
 
 [Back to Events](../README.md)
+
+---
 
 ### Geonosis: Separatist Might
 
@@ -22,7 +24,7 @@
   - Count Dooku's Hangar
   - Galactic Republic Fleet
   - Sand Dunes
-  - [Battleground](../Teams/Geos.md#geonosis-separatist-might-battleground-special-mission)
+  - Battleground
   - Contested Airspace
   - Canyons
   - Droid Factory
