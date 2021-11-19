@@ -8,13 +8,13 @@ Back to [Events](../README.md)
 
 ## [Darth Malek Light Side Event](#light-side-event)
   - [Jedi Knight Revan](#jedi-knight-revan), [Jolee Bindo](#jolee-bindo),
-    [Bastila Shan](#bastila-shan), [Zaalbaar](#zaalbaar), 
+    [Bastila Shan](#bastila-shan), [Zaalbar](#zaalbar), 
     [Mission Vao](#mission-vao)
 
 ## [Territory War Defense](#territory-war-defense)
-  - [Carth Onasi](#carth-onasi), [HK-47](#hk-47),
-    [Bastila Shan (Fallen)](#bastila-shan-fallen),
-    [Carth Onasi](#carth-onasi), [Canderous Ordo](#canderous-ordo)
+  - [Carth Onasi](#carth-onasi), [Zaalbar](#zaalbar-1),
+    [Mission Vao](#mission-vao-1),
+    [Juhani](#juhani), [Canderous Ordo](#canderous-ordo)
 
 ---
 
@@ -144,6 +144,192 @@ Back to [Events](../README.md)
   </tbody>
 </table>
 
+### Bastila Shan
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Off, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CC </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Off/Speed, Heal </td>
+        <td> CD, CC, Off, Def, Pot, Ten </td>
+        <td> Speed </td>
+        <td> Crit Dam </td>
+        <td> Health </td>
+        <td> Heal/Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
+        <td> Off, CC </td>
+        <td> Off, CC, Spd </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
+        <td> Speed </td>
+        <td> Off, CC, Spd, Prot </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> Avoid health; Second highest Off </td>
+       </tr>
+  </tbody>
+</table>
+
+### Zaalbar
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Health (3) </td>
+        <td> Spd, Heal, Prot, Ten </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal(2), Def </td>
+        <td> Spd, Pot, Off, CC </td>
+        <td> Speed </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
+        <td> Off, CC </td>
+        <td> Off, CC, Spd </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
+        <td> Speed </td>
+        <td> Off, CC, Spd, Prot </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> Avoid health; Second highest Off </td>
+       </tr>
+  </tbody>
+</table>
+
+### Mission Vao
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> Crit Damage </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CC, CD </td>
+        <td> Spd, Heal, Off, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Heal/Off </td>
+        <td> Heal/Off </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
+        <td> Off, CC </td>
+        <td> Off, CC, Spd </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
+        <td> Speed </td>
+        <td> Off, CC, Spd, Prot </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> N/A </td>
+        <td> Avoid health; Second highest Off </td>
+       </tr>
+  </tbody>
+</table>
+
 Back to [Teams](#teams),
 [Journey Guide](../Events/Journeys.md#solo-journeys)
 
@@ -166,6 +352,111 @@ Back to [Teams](#teams),
       <th> Triangle </th>
       <th> Circle </th>
       <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, Pot </td>
+        <td> Spd, CC, Pot, Off </td>
+        <td> Speed </td>
+        <td> Crit Damage </td>
+        <td> Prot </td>
+        <td> Offense </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Off, CC </td>
+        <td> Spd, CC, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> Guild </td>
+        <td> Pot, CC(2) </td>
+        <td> Spd, CC, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td> </td>
+       </tr>
+  </tbody>
+</table>
+
+### Zaalbar
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Health (3) </td>
+        <td> Spd, Heal, Prot, Ten </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal(2), Def </td>
+        <td> Spd, Pot, Off, CC </td>
+        <td> Speed </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> Guild </td>
+        <td> Spd, CC </td>
+        <td> Spd, Off, CC, Pot </td>
+        <td> Speed </td>
+        <td> CC </td>
+        <td> Health </td>
+        <td> Pot </td>
+        <td> +100 Spd </td>
+       </tr>
+  </tbody>
+</table>
+
+### Mission Vao
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
      </tr>
     </thead>
     <tbody>
@@ -177,15 +468,131 @@ Back to [Teams](#teams),
         <td> Crit Damage </td>
         <td> Protection </td>
         <td> Protection </td>
+        <td> </td>
        </tr>
       <tr>
         <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
-        <td> Spd, Heal </td>
-        <td> Spd, Heal, Prot, Ten </td>
+        <td> CC, CD </td>
+        <td> Spd, Heal, Off, Pot </td>
         <td> Speed </td>
+        <td> CD </td>
+        <td> Heal/Off </td>
+        <td> Heal/Off </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> Guild </td>
+        <td> Off, CC </td>
+        <td> Spd, Off, CC, Pot </td>
+        <td> Off </td>
+        <td> Off </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> </td>
+       </tr>
+  </tbody>
+</table>
+
+### Juhani
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Ten (3) </td>
+        <td> Spd, CC, Prot, Ten </td>
+        <td> Speed </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Ten, Heal (2) </td>
+        <td> Spd, Pot, CC, Ten </td>
+        <td> Speed </td>
+        <td> Health/Prot </td>
+        <td> Health/Prot </td>
+        <td> Health/Pot/Def </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> Guild </td>
+        <td> Spd/Off, Ten </td>
+        <td> Spd, Off, Prot, Pot </td>
+        <td> Spd </td>
+        <td> Off </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> </td>
+       </tr>
+  </tbody>
+</table>
+
+### Canderous Ordo
+
+<table border=1>
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=6> Slots </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Off, Ten </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> Crit Damage </td>
+        <td> Protection </td>
+        <td> Protection </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Heal, CC, CD </td>
+        <td> Speed </td>
+        <td> CD </td>
         <td> Health </td>
-        <td> Health </td>
-        <td> Health </td>
+        <td> Pot </td>
+        <td> </td>
+       </tr>
+      <tr>
+        <td> Guild </td>
+        <td> Off, Pot </td>
+        <td> Spd, Prot, CC, CD </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td> </td>
        </tr>
   </tbody>
 </table>
