@@ -11,7 +11,7 @@ Back to [Events](../README.md)
     [Bastila Shan](#bastila-shan), [Zaalbar](#zaalbar), 
     [Mission Vao](#mission-vao)
 
-## [Territory War Defense](#territory-war-defense)
+## [Territory War Defense](#territory-war-defense-1)
   - [Carth Onasi](#carth-onasi), [Zaalbar](#zaalbar-1),
     [Mission Vao](#mission-vao-1),
     [Juhani](#juhani), [Canderous Ordo](#canderous-ordo)
@@ -540,7 +540,7 @@ Back to [Teams](#teams),
         <td> Off </td>
         <td> Prot </td>
         <td> Prot </td>
-        <td> </td>
+        <td> Fast offensive set, offensive speed set </td>
        </tr>
   </tbody>
 </table>
