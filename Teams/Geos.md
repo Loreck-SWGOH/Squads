@@ -323,6 +323,16 @@ both high protection and health.
         <td> Health </td>
         <td> Health </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Heal (3) </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 261+ Speed; 50000+ Health; 150% CD </td>
+       </tr>
   </tbody>
 </table>
 
@@ -362,6 +372,16 @@ both high protection and health.
         <td> Heal/Prot </td>
         <td> Heal/Prot </td>
         <td> Pot/Prot </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Heal (3) </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 146+ Speed; 32500+ Health </td>
        </tr>
   </tbody>
 </table>
@@ -403,6 +423,16 @@ both high protection and health.
         <td> Protection </td>
         <td> Offense </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
+        <td> CC, CD </td>
+        <td> </td>
+        <td> CD </td>
+        <td> </td>
+        <td> </td>
+        <td> Off </td>
+        <td> 170+ Speed; 180% CD; 75% CC</td>
+       </tr>
   </tbody>
 </table>
 
@@ -443,6 +473,16 @@ both high protection and health.
         <td> Protection </td>
         <td> Offense </td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
+        <td> CC, CD </td>
+        <td> </td>
+        <td> CD </td>
+        <td> </td>
+        <td> </td>
+        <td> Off </td>
+        <td> 180+ Speed; 150% CD </td>
+       </tr>
   </tbody>
 </table>
 
@@ -482,6 +522,16 @@ both high protection and health.
         <td> Health/Prot </td>
         <td> Protection </td>
         <td> Potency </td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Spd, Heal </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 225+ Speed; 23000+ Heal; 32000+ Prot </td>
        </tr>
   </tbody>
 </table>
