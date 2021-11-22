@@ -427,10 +427,10 @@ both high protection and health.
         <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
         <td> CC, CD </td>
         <td> </td>
+        <td> </td>
         <td> CD </td>
         <td> </td>
         <td> </td>
-        <td> Off </td>
         <td> 170+ Speed; 180% CD; 75% CC</td>
        </tr>
   </tbody>
@@ -477,8 +477,8 @@ both high protection and health.
         <td> <a href="https://www.youtube.com/watch?v=mET94Lvvehc&ab_channel=Zaraos">Zaraos</a></td>
         <td> CC, CD </td>
         <td> </td>
+        <td>  </td>
         <td> CD </td>
-        <td> </td>
         <td> </td>
         <td> Off </td>
         <td> 180+ Speed; 150% CD </td>
