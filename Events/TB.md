@@ -2,12 +2,17 @@
 
 [Back to Events](../README.md)
 
+Territory Battles are a player vs environment event where each member of
+the guild completes missions and deploys characters to earn stars. Earning
+a star allows the next zone to open and with a maximum of three stars that
+can be earned in each zone.
+
 ---
 
-### Geonosis: Separatist Might
+### Geonosis: Separatist Might (DS)
 
-  - Canyons
-  - Droid Factory
+  - [Canyons](../TB%20Zones/Canyons.md)
+  - [Droid Factory](../TB%20Zones/Droid%20Factory.md)
   - Petranaki Arena
   - Separatist Command
   - Core Ship Yards
@@ -18,7 +23,7 @@
   - Count Dooku's Hangar
   - Republic Fleet
 
-### Geonosis: Republic Offensive
+### Geonosis: Republic Offensive (LS)
 
   - Rear Flank
   - Count Dooku's Hangar

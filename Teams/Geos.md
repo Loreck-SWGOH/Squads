@@ -12,12 +12,14 @@ Back to [Events](../README.md)
 
 - [Territory War, Defense](#territory-war-defense)
 - [Padme Amidala Journey](#padme-amidala-journey)
-- [Geonomis: Separist Might, Special Mission](#geonosis-separatist-might-battleground-special-mission)
+- [Droid Factory Combat Mission](#droid-factory-combat-mission)
+- [Geononis: Separatist Might, Special Mission](#geonosis-separatist-might-battleground-special-mission)
 
 ---
 
 ## Territory War, Defense
 ## Padme Amidala Journey
+## Droid Factory Combat Mission
 
 
 - [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba),
@@ -277,9 +279,15 @@ Back to [Events](../README.md)
 Back to [Territory Wars](../Events/TW.md#defense), [Journey Guide](../Events/Journeys.md)
 
 ---
+
+---
+
 ## Geonosis: Separatist Might, Battleground Special Mission
 
-To survive the Battleground Special Mission against Wat Tambor, the team should be modded for 
+To beat the Battleground special mission to obtain Wat Tambor you should focus
+on placing ability block characters with AOEs and characters to restore health.
+Of primary importance is Poggle, who can ability block with her basic. To
+survive the Battleground Special Mission, the team should be modded for 
 both high protection and health.
 
 - [Geonosian Brood Alpha (GBA)](#geonosian-brood-alpha-gba-1),
@@ -536,7 +544,7 @@ both high protection and health.
   </tbody>
 </table>
 
-Back to [Territory Battles](../Events/TB.md#geonosis-separatist-might)
+Back to [Territory Battles](../Events/TB.md#geonosis-separatist-might-ds)
 
 ---
 ## Counters
