@@ -6,19 +6,12 @@ Back to [Events](../README.md)
 
 # Teams
 
-## [Darth Malek Light Side Event](#light-side-event)
-  - [Jedi Knight Revan](#jedi-knight-revan), [Jolee Bindo](#jolee-bindo),
-    [Bastila Shan](#bastila-shan), [Zaalbar](#zaalbar), 
-    [Mission Vao](#mission-vao)
-
-## [Territory War Defense](#territory-war-defense-1)
-  - [Carth Onasi](#carth-onasi), [Zaalbar](#zaalbar-1),
-    [Mission Vao](#mission-vao-1),
-    [Juhani](#juhani), [Canderous Ordo](#canderous-ordo)
+- [Darth Malek Light Path](#darth-malek-light-path)
+- [Territory War Defense](#territory-war-defense-1)
 
 ---
 
-## Light Side Event
+## Darth Malek Light Path
 
 ### Jedi Knight Revan
 

@@ -18,9 +18,9 @@
   - Darth Revan (DR)
   - Chewbacca
   - [C-3PO](../Teams/Ewoks.md#c-3po-event-contact-protocol)
-  - [Darth Malek](../Teams/Darth%20Malek%20Event.md)
+  - [Darth Malek](../Journeys/Darth%20Malek.md)
   - General Skywalker (GAS)
-  - Jedi Knight Luke Skywalker (JKLS)
+  - [Jedi Knight Luke Skywalker (JKLS)](../Journeys/JKLS.md)
   - Chimaera
   - Han's Milennium Falcom
   - Executor
