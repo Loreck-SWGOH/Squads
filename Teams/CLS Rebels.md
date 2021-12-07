@@ -1,77 +1,22 @@
-# Jedi Knight Luke Skywalker Journey Mods
+# Commander Luke Skywalker (CLS) Rebel Team Mods
 
-Back to [Journeys](../Events/Journeys.md)
+Write some words about the teams in general
 
----
-
-# Tiers
-
-- [One](#tier-one)
-- [Two](#tier-two)
+Back to [Events](../README.md)
 
 ---
 
-## Tier One
+# Teams
 
-### Wampa
-
-<table border=1, style="empty-cells: show;">
-  <thead>
-    <tr>
-      <th rowspan=2> Sources </th>
-      <th colspan=7> Slots (Primaries) </th>
-     </tr>
-    <tr>
-      <th style="white-space:nowrap;"> Mod Sets </th>
-      <th> Secondaries</th>
-      <th> Arrow </th>
-      <th> Triangle </th>
-      <th> Circle </th>
-      <th> Plus </th>
-      <th> Notes </th>
-     </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td> <b>In Game</b> </td>
-        <td> Off, CC </td>
-        <td> Spd, CC, Prot, Off </td>
-        <td> Speed </td>
-        <td> Off </td>
-        <td> Prot </td>
-        <td> Off </td>
-        <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
-        <td> Off, Pot/Ten/Heal </td>
-        <td> Spd, Prot, Off, Pot/Ten </td>
-        <td> Speed </td>
-        <td> CC/CD </td>
-        <td> Prot </td>
-        <td> Pot/Ten </td>
-        <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=6AXHt6JfcEM&ab_channel=Dylarr%27sTwi%27LekTactics"> Dylarr's Twi'Lek Tactics</a></td>
-        <td> Ten (3) </td>
-        <td> Spd, Prot, Ten </td>
-        <td> Speed </td>
-        <td> CD </td>
-        <td> Heal </td>
-        <td> Ten </td>
-        <td> </td>
-       </tr>
-  </tbody>
-</table>
-
-Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
+- [Jedi Knight Luke Skywalker Jouney](#jedi-knight-luke-skywalker-tier-iii-event)
 
 ---
 
-## Tier Two
+## Jedi Knight Luke Skywalker Tier III Event
+  - [CLS](#cls), [Han Solo](#han-solo), [Chewbacca](#chewbacca), [R2-D2](#r2-d2),
+    [C-3PO](#c-3po)
 
-### Commander Luke Skywalker (CLS)
+### CLS
 
 <table border=1, style="empty-cells: show;">
   <thead>
@@ -111,22 +56,69 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=FLtuFDyPCYs&ab_channel=Dylarr%27sTwi%27LekTactics">Dylarr's Twi'Lek Tactics</a></td>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
         <td> CC, CD </td>
-        <td> Speed, Pot, Off, Prot </td>
+        <td> Off </td>
         <td> Speed </td>
         <td> CD </td>
         <td> Prot </td>
         <td> Pot </td>
-        <td> 275+ speed, 200%+ CD, 75%+ potency </td>
+        <td> +100 speed, avoid potency, 6E square, cross, tri </td>
        </tr>
   </tbody>
 </table>
 
-Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
+Back to [Territory Wars](../Events/TW.md), [Journey Guide](../Events/Journeys.md)
 
 ---
 
-[//]: # (## Counters)
+## Second set of mods
+  - [Chief Nesbit](#chief-nesbit-1), Geonosian Soldier, Geonosian Spy, Sun Fac,
+    Poggle the Lesser
 
-[//]: # (-- Ewoks)
+### Chief Nesbit
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> Crit Damage </td>
+        <td colspan="2"> &nbsp </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Spd, Heal </td>
+        <td> Spd, Heal, Prot, Ten </td>
+        <td> Speed </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td> Health </td>
+        <td></td>
+       </tr>
+  </tbody>
+</table>
+
+---
+
+## Counters
+
+-- Ewoks
