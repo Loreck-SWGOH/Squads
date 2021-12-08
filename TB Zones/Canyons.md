@@ -1,6 +1,6 @@
 # TB Canyons Teams
 
-[Back to Territory Battle](../TB.md)
+[Back to Territory Battle](../Events/TB.md)
 
 ---
 
