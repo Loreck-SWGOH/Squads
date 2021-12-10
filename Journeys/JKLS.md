@@ -127,6 +127,6 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
 
-[//]: # (## Counters)
+[comment]: <> (## Counters)
 
-[//]: # (-- Ewoks)
+[comment]: <> (-- Ewoks)
