@@ -14,8 +14,15 @@ Back to [Events](../README.md)
 ---
 
 ## Old Republic Counter
-  - [CLS](#cls), [Han Solo](#han-solo), [Chewbacca](#chewbacca), [R2-D2](#r2-d2),
-    [C-3PO](#c-3po)
+
+The CLS Rebels team is an effective counter to the Old Republic team
+with Carth as a leader. The actual composition consists of three main
+characters (CLS, Han, and Chewie) accompanied by any two of OLd Ben, R2-D2,
+Chewpio, or C-3PO.
+
+  - Main characters [CLS](#cls), [Han Solo](#han-solo), [Chewbacca](#chewbacca)
+  - Optional characters [R2-D2](#r2-d2), [C-3PO](#c-3po), [Old Ben](#old-ben),
+    [Threepio & Chewie](chewpio)
 
 ### CLS
 
@@ -212,15 +219,57 @@ Back to [Events](../README.md)
         <td> Pot </td>
         <td></td>
        </tr>
+  </tbody>
+</table>
+
+### Old Ben
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> CC, CD </td>
-        <td> Off </td>
-        <td> Speed </td>
-        <td> CD </td>
+        <td> <b>In Game</b> </td>
+        <td> Def, Pot </td>
+        <td> Spd, Heal, Ten, Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> Heal, Def, Heal/Def/Pot </td>
+        <td> Spd, Heal, Pot, Def </td>
+        <td> Spd </td>
+        <td> Heal/Def </td>
         <td> Prot </td>
         <td> Pot </td>
-        <td> +100 speed, avoid potency, 6E square, cross, tri </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Spd, Heal </td>
+        <td> Heal, Prot </td>
+        <td> Speed </td>
+        <td> Heal </td>
+        <td> Heal </td>
+        <td> Heal </td>
+        <td> +100 speed, 6E health circle, cross, tri </td>
        </tr>
   </tbody>
 </table>
@@ -263,6 +312,16 @@ Back to [Events](../README.md)
         <td> Prot </td>
         <td> Pot </td>
         <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Spd, Pot </td>
+        <td> Spd </td>
+        <td> Speed </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> +100-120 speed, +100% potency </td>
        </tr>
   </tbody>
 </table>
