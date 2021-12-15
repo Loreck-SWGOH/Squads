@@ -33,7 +33,7 @@ aren't tabulated, please let us know in the Discord channel.
 
 ---
 
-## Event Cateogories
+## Event Categories
 
 - [Squad Arena](Events/Squad%20Arena.md)
 - [Grand Arena Championships (GAC)](Events/GAC.md)
