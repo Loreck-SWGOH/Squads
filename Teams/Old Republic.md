@@ -595,6 +595,6 @@ Back to [Teams](#teams),
 
 ---
 
-[//]: # (## Counters)
+## Counters
 
-[//]: # (-- Ewoks)
+-- [CLS Rebels](CLS%20Rebels.md#)
