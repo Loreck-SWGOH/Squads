@@ -22,7 +22,7 @@ effectiveness between the teams.
   - [First Order] (Counters)
   - [Mon Mothmas] (Counters)
   - [General Anakin Skywalker] (Counters)
-  - [Carth Onasi](../Teams/Old%20Republic.md#territory-war-defense-1) (Counters)
+  - [Carth Onasi](../Teams/Old%20Republic.md#territory-war-defense) ([Counters](../Teams/CLS%20Rebels.md#old-republic-counter))
   - [Darth Revan] (Counters)
   - [Sith Eternal Emperor] (Counters)
   - [Jedi Master Kenobi] (Counters)
