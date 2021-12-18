@@ -8,6 +8,7 @@ Back to [Journeys](../Events/Journeys.md)
 
 - [One](#tier-one)
 - [Two](#tier-two)
+- [Three](../Teams/CLS%20Rebels.md#jedi-knight-luke-skywalker-tier-iii-event)
 
 ---
 
