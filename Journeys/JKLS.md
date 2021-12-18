@@ -111,14 +111,14 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=FLtuFDyPCYs&ab_channel=Dylarr%27sTwi%27LekTactics">Dylarr's Twi'Lek Tactics</a></td>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
         <td> CC, CD </td>
-        <td> Speed, Pot, Off, Prot </td>
+        <td> Off </td>
         <td> Speed </td>
         <td> CD </td>
         <td> Prot </td>
         <td> Pot </td>
-        <td> 275+ speed, 200%+ CD, 75%+ potency </td>
+        <td> +100 speed, avoid potency, 6E square, cross, tri </td>
        </tr>
   </tbody>
 </table>
