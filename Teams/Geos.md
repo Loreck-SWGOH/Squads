@@ -100,9 +100,9 @@ Back to [Events](../README.md)
         <td> Def (3) </td>
         <td> Prot, Heal, Spd, Ten </td>
         <td> Crit Avoid </td>
-        <td> Protection </td>
-        <td> Protection </td>
-        <td> Protection </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td> Prot </td>
        </tr>
       <tr>
         <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
