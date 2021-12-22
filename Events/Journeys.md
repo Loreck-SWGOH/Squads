@@ -20,7 +20,7 @@
   - [C-3PO](../Teams/Ewoks.md#c-3po-event-contact-protocol)
   - [Darth Malek](../Journeys/Darth%20Malek.md)
   - General Skywalker (GAS)
-  - [Jedi Knight Luke Skywalker (JKLS)](../Journeys/JKLS.md)
+  - [Jedi Knight Luke Skywalker (JKLS)](../Journeys/JKLS.md#tiers)
   - Chimaera
   - Han's Milennium Falcom
   - Executor
