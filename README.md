@@ -35,13 +35,13 @@ aren't tabulated, please let us know in the Discord channel.
 
 ## Event Categories
 
-- [Squad Arena](Events/Squad%20Arena.md)
-- [Grand Arena Championships (GAC)](Events/GAC.md)
-- [Raids](Events/Raids.md)
-- [Territory Battles](Events/TB.md)
-- [Territory War](Events/TW.md)
-- [Journey Guide](Events/Journeys.md)
-- [Conquest](Events/Conquest.md)
-- [Galactic Challenges](Events/Galatic%20Challenges.md)
-- [Fleet Arena](Events/Fleet%20Arena.md)
+- [Squad Arena](docs/Events/Squad%20Arena.md)
+- [Grand Arena Championships (GAC)](docs/Events/GAC.md)
+- [Raids](docs/Events/Raids.md)
+- [Territory Battles](docs/Events/TB.md)
+- [Territory War](docs/Events/TW.md)
+- [Journey Guide](docs/Events/Journeys.md)
+- [Conquest](docs/Events/Conquest.md)
+- [Galactic Challenges](docs/Events/Galatic%20Challenges.md)
+- [Fleet Arena](docs/Events/Fleet%20Arena.md)
 
