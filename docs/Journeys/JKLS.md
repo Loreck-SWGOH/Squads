@@ -128,6 +128,12 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
 
+## Tier Three
+
+### [CLS Rebels](../Teams/CLS%20Rebels.md#jedi-knight-luke-skywalker-tier-iii-event)
+
+---
+
 [comment]: <> (## Counters)
 
 [comment]: <> (-- Ewoks)
