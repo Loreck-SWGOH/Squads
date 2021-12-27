@@ -1,12 +1,12 @@
 <template>
     <v-tabs>
-        <v-tab ripple> Team Database </v-tab>
-        <v-tab-item> <ModDBApp /> </v-tab-item>
+        <v-tab v-for="item in items" :key="item">
+            {{nameDict[item]}}
+        </v-tab>
 
-        <v-tab ripple> Team Mods </v-tab>
+        <v-tab-item> <ModDBApp /> </v-tab-item>
         <v-tab-item> <TeamModApp /> </v-tab-item>
 
-        <v-tab ripple> Defense Mods </v-tab>
         <v-tab-item> <DefModApp /> </v-tab-item>
     </v-tabs>
 
@@ -17,14 +17,25 @@
   import TeamModApp from '@/components/TeamModApp'
   import DefModApp from '@/components/DefModApp'
 
-export default {
-    name: 'Navbar',
+    export default {
+        name: 'NavBar',
 
-    components: {
-      ModDBApp,
-      TeamModApp,
-      DefModApp
-    },
-    
-}
+        components: {
+          ModDBApp,
+          TeamModApp,
+          DefModApp
+        },
+
+        data () {
+            return {
+                items: ['db', 'teammod', 'defmod'],
+                nameDict: { 'db': 'Team Database',
+                            'teammod': 'Team Mods',
+                            'defmod': 'Defense Mods'},
+                vueDict: {  'db': <ModDBApp />,
+                            'teammod': <TeamModApp />,
+                            'defmod': <DefModApp />},
+            }
+        },
+    }
 </script>
