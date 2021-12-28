@@ -1,6 +1,6 @@
 <template>
-    <v-toolbar tabs>
-        <v-text-field class="shrink mx-4" prefix="Ally Code"
+    <v-toolbar tabs class="ma-4" flat>
+        <v-text-field class="shrink ma-2" prefix="Ally Code"
             single-line outlined counter=9></v-text-field>
         <v-tabs slot="extension">
             <v-tab v-for="tab in tabs" :key="tab">
