@@ -2,7 +2,7 @@
 <!-- v-app is root component -->
   <v-app>
     <v-app-bar app color="primary" dark>
-      <span class="display-1"> Modding </span>
+      <span class="display-1"> SWGOH Modding </span>
 
     <!-- push items to far left and far right -->
       <v-spacer></v-spacer>
