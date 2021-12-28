@@ -1,14 +1,16 @@
 <template>
-    <v-tabs>
-        <v-tab v-for="tab in tabs" :key="tab.title">
-            {{tab.title}}
-        </v-tab>
+    <v-toolbar tabs>
+        <v-text-field label="Ally Code"></v-text-field>
+        <v-tabs slot="extension">
+            <v-tab v-for="tab in tabs" :key="tab.title">
+                {{tab.title}}
+            </v-tab>
 
-        <v-tab-item v-for="tab in tabs" :key="tab.comp">
-            <component :is="tab.comp"> </component>
-        </v-tab-item>
-    </v-tabs>
-
+            <v-tab-item v-for="tab in tabs" :key="tab.comp">
+                <component :is="tab.comp"> </component>
+            </v-tab-item>
+        </v-tabs>
+    </v-toolbar>
 </template>
 
 <script>
