@@ -1,7 +1,9 @@
 <template>
     <v-toolbar tabs class="ma-4" flat>
         <v-text-field class="shrink ma-2" prefix="Ally Code"
-            single-line outlined counter=9></v-text-field>
+            single-line outlined counter=11
+            v-model="allyCodeNum"></v-text-field>
+
         <v-tabs slot="extension">
             <v-tab v-for="tab in tabs" :key="tab">
                 {{tab.title}}
@@ -38,8 +40,23 @@
                     { title: 'Team Database', comp: ModDBApp },
                     { title: 'Team Mods', comp: TeamModApp },
                     { title: 'Defense Mods', comp: DefModApp},
-                ]
+                ],
+
+                allyCodeNum: ''
             }
         },
+
+        watch: {
+            allyCodeNum() {
+                // Card number without dash (-)
+                let realNumber = this.allyCodeNum.replace(/-/gi, '')
+        
+                // Generate dashed number
+                let dashedNumber = realNumber.match(/.{1,3}/g)
+
+                // Replace the dashed number with the real one
+                this.allyCodeNum = dashedNumber.join('-')                
+            }
+        }
     }
 </script>
