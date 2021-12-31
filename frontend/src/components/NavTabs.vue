@@ -1,8 +1,6 @@
 <template>
     <v-toolbar tabs class="ma-4" flat>
-        <v-text-field class="shrink ma-2" prefix="Ally Code"
-            single-line outlined counter=11
-            v-model="allyCodeNum"></v-text-field>
+        <AllyCode />
 
         <v-tabs slot="extension">
             <v-tab v-for="tab in tabs" :key="tab">
@@ -17,16 +15,18 @@
 </template>
 
 <script>
+    import AllyCode from '@/components/AllyCode'
     import ModDBApp from '@/components/ModDBApp'
     import TeamModApp from '@/components/TeamModApp'
     import DefModApp from '@/components/DefModApp'
 
     export default {
         // What is this component
-        name: 'NavBar',
+        name: 'NavTabs',
 
         // What components does this use
         components: {
+          AllyCode, 
           ModDBApp,
           TeamModApp,
           DefModApp

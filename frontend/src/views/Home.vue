@@ -1,16 +1,16 @@
 <!-- Opening page -->
 <template>
-  <NavBar />
+  <NavTabs />
 </template>
 
 <script>
-  import NavBar from '@/components/NavBar'
+  import NavTabs from '@/components/NavTabs'
 
   export default {
     name: 'Home',
 
     components: {
-      NavBar,
+      NavTabs,
     },
   }
 </script>
