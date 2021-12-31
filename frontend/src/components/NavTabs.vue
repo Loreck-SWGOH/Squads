@@ -21,10 +21,10 @@
     import DefModApp from '@/components/DefModApp'
 
     export default {
-        // What is this component
+        // Component name
         name: 'NavTabs',
 
-        // What components does this use
+        // Components used
         components: {
           AllyCode, 
           ModDBApp,
@@ -32,7 +32,7 @@
           DefModApp
         },
 
-        // What kind of data is needed internally
+        // Internal data
         data () {
             return {
                 // Entries dictate order of tabs
