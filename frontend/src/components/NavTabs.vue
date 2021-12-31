@@ -41,22 +41,7 @@
                     { title: 'Team Mods', comp: TeamModApp },
                     { title: 'Defense Mods', comp: DefModApp},
                 ],
-
-                allyCodeNum: ''
             }
         },
-
-        watch: {
-            allyCodeNum() {
-                // Card number without dash (-)
-                let realNumber = this.allyCodeNum.replace(/-/gi, '')
-        
-                // Generate dashed number
-                let dashedNumber = realNumber.match(/.{1,3}/g)
-
-                // Replace the dashed number with the real one
-                this.allyCodeNum = dashedNumber.join('-')                
-            }
-        }
     }
 </script>
