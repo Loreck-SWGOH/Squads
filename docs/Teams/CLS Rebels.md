@@ -590,7 +590,7 @@ Back to [Old Republic](Old%20Republic.md), [Territory Wars](../Events/TW.md)
         <td> </td>
         <td> </td>
         <td> Pot </td>
-        <td> +100-120 speed, +100% potency </td>
+        <td> +100-120 speed, 100%+ potency </td>
        </tr>
   </tbody>
 </table>
