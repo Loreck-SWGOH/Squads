@@ -582,6 +582,16 @@ Back to [Old Republic](Old%20Republic.md), [Territory Wars](../Events/TW.md)
         <td> Pot </td>
         <td></td>
        </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Spd, Pot </td>
+        <td> Spd </td>
+        <td> Speed </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> +100-120 speed, +100% potency </td>
+       </tr>
   </tbody>
 </table>
 
