@@ -1,22 +1,27 @@
 <template>
     <v-text-field class="shrink ma-2" prefix="Ally Code"
         single-line outlined counter=11 maxlength=11
-        v-model="allyCodeNum"></v-text-field>
+        v-model="allyCodeNum">
+        <template slot="append-outer">
+            <span> Welcome {{name}} </span>
+        </template>
+    </v-text-field>
 </template>
 
 <script>
     export default {
-        // What is this component
+        // Name of component
         name: 'AllyCode',
 
-        // What components does this use
+        // Components used
         components: {
         },
 
-        // What kind of data is needed internally
+        // Local data
         data () {
             return {
-                allyCodeNum: ''
+                allyCodeNum: '',
+                name: 'Loreck Avery'
             }
         },
 
