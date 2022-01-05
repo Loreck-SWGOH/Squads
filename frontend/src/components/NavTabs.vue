@@ -1,3 +1,4 @@
+<!-- Toolbar with a place to enter the Ally Code and a set of tabs -->
 <template>
     <v-toolbar tabs class="ma-4" flat>
         <AllyCode />

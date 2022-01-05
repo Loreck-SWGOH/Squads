@@ -1,9 +1,11 @@
+<!-- The Ally Code consists of an input and displays the associated name -->
 <template>
-    <v-text-field class="shrink ma-2" prefix="Ally Code"
-        single-line outlined counter=11 maxlength=11
-        v-model="allyCodeNum">
-        <template slot="append-outer">
-            <span> Welcome {{name}} </span>
+    <v-text-field class="shrink text-sm-h6"
+        prefix="Ally Code" single-line outlined
+        counter=11 maxlength=11
+        append-icon="mdi-magnify" v-model="allyCodeNum">
+        <template v-slot:append-outer>
+            <v-btn class="text-sm-h6" depressed plain> {{allyName}} </v-btn>
         </template>
     </v-text-field>
 </template>
@@ -21,7 +23,12 @@
         data () {
             return {
                 allyCodeNum: '',
-                name: 'Loreck Avery'
+            }
+        },
+
+        computed: {
+            allyName() {
+                return 'Welcome Loreck Avery'
             }
         },
 
