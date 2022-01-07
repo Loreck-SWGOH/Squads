@@ -37,9 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'DefMod',
-    'TeamMod',
-    'rest_framework'
+    'config.TeamMod.apps.TeammodConfig',
+#    'config.DefMod.apps.DefmodConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
