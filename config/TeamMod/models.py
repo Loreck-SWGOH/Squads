@@ -1,4 +1,4 @@
-from django.db import models
+from django.db import models, IntegrityError
 from django.db.models.fields.related import ForeignKey
 
 # Create your models here.
@@ -89,3 +89,9 @@ class HasActivated_EquippedWith(models.Model):
     
     class Meta:
         unique_together = (("player", "character"),)
+
+    def save(self, commit, *arg, **kwargs):
+        if ((self.modSlot1.slot != 1) or (self.modSlot2.slor != 2) or
+            (self.modSlot2.slor != 3) or (self.modSlot2.slor != 4) or
+            (self.modSlot2.slor != 5) or (self.modSlot2.slor != 6)):
+            raise IntegrityError
