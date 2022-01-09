@@ -23,12 +23,13 @@
         data () {
             return {
                 allyCodeNum: '',
+                allyCodeName: 'Loreck Avery'
             }
         },
 
         computed: {
             allyName() {
-                return 'Welcome Loreck Avery'
+                return 'Welcome ' + this.allyCodeName
             }
         },
 
