@@ -427,14 +427,14 @@ Back to [Old Republic](Old%20Republic.md), [Territory Wars](../Events/TW.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> CC, CD </td>
-        <td> Off </td>
-        <td> Off/Spd </td>
-        <td> CD </td>
-        <td> Prot </td>
-        <td> Off </td>
-        <td> +65 speed, 70%+ CC, 6E square, arrow, cross, tri </td>
+        <td> <a href="https://www.youtube.com/watch?v=EfHUxpwi5Jk&ab_channel=CubsFanHan">CubsFan Han</a></td>
+        <td> Heal (3) </td>
+        <td> Heal, Prot, Spd </td>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td> 70k+ health, 60k+ prot, 240+ speed </td>
        </tr>
   </tbody>
 </table>
