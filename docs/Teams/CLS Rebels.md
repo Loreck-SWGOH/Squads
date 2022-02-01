@@ -479,14 +479,14 @@ Back to [Old Republic](Old%20Republic.md), [Territory Wars](../Events/TW.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> CC, Off/CD </td>
-        <td> Off </td>
+        <td> <a href="https://www.youtube.com/watch?v=EfHUxpwi5Jk&ab_channel=CubsFanHan">CubsFan Han</a></td>
+        <td> Heal (2), Ten </td>
+        <td>  </td>
         <td> Off/Spd </td>
         <td> CD </td>
         <td> Prot </td>
         <td> Off </td>
-        <td> +65 speed, 50%+ CC, 6E square, arrow, cross, tri </td>
+        <td> 72K+ heal, 260+ speed, 8000+ dam, 100%+ ten</td>
        </tr>
   </tbody>
 </table>
@@ -531,14 +531,14 @@ Back to [Old Republic](Old%20Republic.md), [Territory Wars](../Events/TW.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> <a href="https://www.youtube.com/watch?v=EfHUxpwi5Jk&ab_channel=CubsFanHan">CubsFan Han</a></td>
         <td> CC, CD </td>
         <td> Off </td>
         <td> Speed </td>
         <td> CD </td>
         <td> Prot </td>
         <td> Pot </td>
-        <td> +100 speed, avoid potency, 6E square, cross, tri </td>
+        <td> 280+ speed, 6500+ dam, 80%+ CC, 50K+ heal </td>
        </tr>
   </tbody>
 </table>
