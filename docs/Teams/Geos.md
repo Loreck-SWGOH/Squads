@@ -1,10 +1,10 @@
 # Geonosians Team Mods
 
 The Geonosian team consists of 5 characters. The usual line-up uses Geonosian Brood 
-Alpha as the lead. It's suggested that GBA be geared at the relic level while the other characters 
+Alpha as the lead. It's suggested that GBA be geared to R3 minimum while the other characters 
 need only be geared to level 12.
 
-Back to [Events](../README.md)
+Back to [Events](../../README.md)
 
 ---
 
@@ -19,6 +19,8 @@ Back to [Events](../README.md)
 
 ## Territory War, Defense
 ## Padme Amidala Journey
+## Petranski Arena Special Mission
+- G13 Geos
 ## Droid Factory Combat Mission
 
 
