@@ -70,7 +70,7 @@ Chewpio, or C-3PO.
         <td> Speed </td>
         <td> CD </td>
         <td> Prot </td>
-        <td> Pot </td>
+        <td> Off </td>
         <td> +100 speed, avoid potency, 6E square, cross, tri </td>
        </tr>
   </tbody>
