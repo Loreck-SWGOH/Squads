@@ -436,33 +436,23 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
     <tbody>
       <tr>
         <td> <b>In Game</b> </td>
-        <td> CD, Pot </td>
-        <td> Spd, CC, Prot, Off </td>
+        <td> Spd, Heal </td>
+        <td> Spd, Ten, Prot, Heal </td>
         <td> Speed </td>
-        <td> CD </td>
         <td> Prot </td>
-        <td> Off </td>
+        <td> Prot </td>
+        <td> Prot </td>
         <td></td>
        </tr>
       <tr>
         <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
-        <td> CD, Heal </td>
+        <td> Spd, Heal </td>
         <td> Spd, Heal, Prot, Pot </td>
         <td> Speed </td>
-        <td> CD </td>
-        <td> Prot </td>
-        <td> Pot </td>
+        <td> Heal </td>
+        <td> Heal </td>
+        <td> Heal </td>
         <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> Off, Pot </td>
-        <td> Spd, Pot, Off </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> Pot </td>
-        <td> 305+ speed, 60K+ health </td>
        </tr>
   </tbody>
 </table>
@@ -733,13 +723,13 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
        </tr>
       <tr>
         <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> Off, Pot </td>
-        <td> Spd, Pot, Off </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
+        <td> CC, CD </td>
+        <td> Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
         <td> Pot </td>
-        <td> 300+ speed, 70%+ pot, 7200+ off </td>
+        <td> +100 speed, avoid potency, 6E square, cross, tri </td>
        </tr>
   </tbody>
 </table>
@@ -772,26 +762,6 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
         <td> Prot </td>
         <td> Off </td>
         <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
-        <td> CD, Heal </td>
-        <td> Spd, Heal, Prot, Pot </td>
-        <td> Speed </td>
-        <td> CD </td>
-        <td> Prot </td>
-        <td> Pot </td>
-        <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> Off, Pot </td>
-        <td> Spd, Pot, Off </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> Pot </td>
-        <td> 305+ speed, 60K+ health </td>
        </tr>
   </tbody>
 </table>
@@ -843,16 +813,6 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
         <td> Heal </td>
         <td> Pot/Off </td>
         <td></td>
-       </tr>
-      <tr>
-        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
-        <td> Off, Pot </td>
-        <td> Spd, Pot, Off </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> Pot </td>
-        <td> 300+ speed, 70%+ pot, 7200+ off </td>
        </tr>
   </tbody>
 </table>
