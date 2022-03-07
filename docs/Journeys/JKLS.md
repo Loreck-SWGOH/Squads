@@ -6,17 +6,18 @@ Back to [Journeys](../Events/Journeys.md)
 
 # Tiers
 
-- [One](#tier-one)
-- [Two](#tier-two)
-- [Three](#tier-three)
-- [Four](#tier-four)
-- [Five](#tier-five)
-- [Six](#tier-six)
-- [Seven](#tier-seven)
+- [I](#tier-i)
+- [II](#tier-ii)
+- [III](#tier-iiiee)
+- [IV](#tier-iv)
+- [V](#tier-v)
+- [VI](#tier-vi)
+- [VII](#tier-vii)
+- [VIII](#tier-viii)
 
 ---
 
-## Tier One
+## Tier I
 
 ### Wampa
 
@@ -74,7 +75,7 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
 
-## Tier Two
+## Tier II
 
 ### Commander Luke Skywalker (CLS)
 
@@ -132,7 +133,8 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
 
-## Tier Three
+## Tier III
+
   - [Captain Han Solo](#captain-han-solo), [Chewbacca](#chewbacca),
     [Rebel Officer Leia Organa](#rebel-officer-leia-organa),
     [C-3PO](#c-3po)
@@ -348,7 +350,7 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
-## Tier Four
+## Tier IV
 
 Tier four (IV) is a fleet battle using Han's Millennium Falcon and Wedge Antilles's X-wing. Since ship stats are based only on the mod level, then characters should be equipped with Mk VI-E mods.
 
@@ -357,17 +359,118 @@ Tier four (IV) is a fleet battle using Han's Millennium Falcon and Wedge Antille
 Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
-## Tier Five
+## Tier V
+
   - [Commander Luke Skywalker](#commander-luke-skywalker-cls-1), [Hermit Yoda](#hermit-yoda),
 
 ### Commander Luke Skywalker (CLS)
 
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, Pot </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CD, Heal </td>
+        <td> Spd, Heal, Prot, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Pot, Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> 300+ speed, 70%+ pot, 7200+ off </td>
+       </tr>
+  </tbody>
+</table>
+
 ### Hermit Yoda
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, Pot </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CD, Heal </td>
+        <td> Spd, Heal, Prot, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Pot, Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> 305+ speed, 60K+ health </td>
+       </tr>
+  </tbody>
+</table>
 
 Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
-## Tier Six
+## Tier VI
 
   - [Lando Calrissian](#lando-calrissian), [Chewbacca](#chewbacca),
     [Rebel Officer Leia Organa](#rebel-officer-leia-organa),
@@ -584,7 +687,175 @@ Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
 ---
-## Tier Seven
+## Tier VII
+
+  - [Commander Luke Skywalker](#commander-luke-skywalker-cls-1), [Hermit Yoda](#hermit-yoda),
+
+
+### Commander Luke Skywalker (CLS)
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, Pot </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CD, Heal </td>
+        <td> Spd, Heal, Prot, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Pot, Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> 300+ speed, 70%+ pot, 7200+ off </td>
+       </tr>
+  </tbody>
+</table>
+
+### Hermit Yoda
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> CD, Pot </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CD, Heal </td>
+        <td> Spd, Heal, Prot, Pot </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Pot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Pot, Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> 305+ speed, 60K+ health </td>
+       </tr>
+  </tbody>
+</table>
+
+Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
+
+
+---
+## Tier VIII
+
+  - [Darth Vader](#darth-vader)
+
+
+### Darth Vader
+
+<table border=1, style="empty-cells: show;">
+  <thead>
+    <tr>
+      <th rowspan=2> Sources </th>
+      <th colspan=7> Slots (Primaries) </th>
+     </tr>
+    <tr>
+      <th style="white-space:nowrap;"> Mod Sets </th>
+      <th> Secondaries</th>
+      <th> Arrow </th>
+      <th> Triangle </th>
+      <th> Circle </th>
+      <th> Plus </th>
+      <th> Notes </th>
+     </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> <b>In Game</b> </td>
+        <td> Spd, CC </td>
+        <td> Spd, CC, Prot, Off </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Prot </td>
+        <td> Prot </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://gaming-fans.com/star-wars-goh/mods/">Gaming-Fans</a></td>
+        <td> CD/Off, Pot </td>
+        <td> Spd, Pot, Off, CC/CD </td>
+        <td> Speed </td>
+        <td> CD </td>
+        <td> Heal </td>
+        <td> Pot/Off </td>
+        <td></td>
+       </tr>
+      <tr>
+        <td> <a href="https://www.youtube.com/watch?v=0RiSSoUSFEw&ab_channel=Zaraos">Zaraos</a></td>
+        <td> Off, Pot </td>
+        <td> Spd, Pot, Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> Pot </td>
+        <td> 300+ speed, 70%+ pot, 7200+ off </td>
+       </tr>
+  </tbody>
+</table>
 
 Back to [Journey Guide](../Events/Journeys.md#solo-journeys)
 
