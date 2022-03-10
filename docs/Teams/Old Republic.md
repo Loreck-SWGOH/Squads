@@ -63,14 +63,14 @@ Back to [Events](../README.md)
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
-        <td> Speed </td>
-        <td> Off, CC, Spd, Prot </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> Avoid health; Second highest Off </td>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
+        <td> Off </td>
+        <td> Off, CD, Spd </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 6221+ spec dam. 222%+ CD, 177+ spd </td>
        </tr>
   </tbody>
 </table>
@@ -118,21 +118,21 @@ Back to [Events](../README.md)
         <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
         <td> Off, CC </td>
         <td> Off, CC, Spd </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
-        <td> Off, CC </td>
-        <td> Off, CC, Spd Prot </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> Avoid health; Second highest Off </td>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
+        <td> </td>
+        <td> Off, CD, Spd </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 2561+ phy dam, 150%+ CD, 188+ spd</td>
        </tr>
   </tbody>
 </table>
@@ -180,21 +180,21 @@ Back to [Events](../README.md)
         <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
         <td> Off, CC </td>
         <td> Off, CC, Spd </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
         <td> Speed </td>
         <td> Off, CC, Spd, Prot </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> Avoid health; Second highest Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 3878+ spec dam, 150%+ CD, 218+ spd </td>
        </tr>
   </tbody>
 </table>
@@ -242,21 +242,21 @@ Back to [Events](../README.md)
         <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
         <td> Off, CC </td>
         <td> Off, CC, Spd </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
         <td> Speed </td>
         <td> Off, CC, Spd, Prot </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> Avoid health; Second highest Off </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 3661+ phy dam, 150%+ CD, 177+ spd </td>
        </tr>
   </tbody>
 </table>
@@ -304,21 +304,21 @@ Back to [Events](../README.md)
         <td> <a href="https://www.youtube.com/watch?v=pkUY4m52d0A&ab_channel=AhnaldT101">AhnaldT101</a></td>
         <td> Off, CC </td>
         <td> Off, CC, Spd </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
         <td></td>
        </tr>
       <tr>
-        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/djno38/a_very_low_gear_guide_to_the_light_side_malak/">SWGOH Subreddit</a></td>
-        <td> Speed </td>
-        <td> Off, CC, Spd, Prot </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> N/A </td>
-        <td> Avoid health; Second highest Off </td>
+        <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
+        <td> </td>
+        <td> Off, CD, Spd </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> 3447+ phy dam, 222%+ CD, 180+ spd </td>
        </tr>
   </tbody>
 </table>
