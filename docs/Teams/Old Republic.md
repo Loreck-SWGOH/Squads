@@ -64,10 +64,10 @@ Back to [Events](../README.md)
        </tr>
       <tr>
         <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
-        <td> Off </td>
+        <td> CD </td>
         <td> Off, CD, Spd </td>
         <td> </td>
-        <td> </td>
+        <td> CD </td>
         <td> </td>
         <td> </td>
         <td> 6221+ spec dam. 222%+ CD, 177+ spd </td>
@@ -312,10 +312,10 @@ Back to [Events](../README.md)
        </tr>
       <tr>
         <td> <a href="https://www.reddit.com/r/SWGalaxyOfHeroes/comments/crlzg6/malak_event_any_combo_can_work/">SWGOH Subreddit</a></td>
-        <td> </td>
+        <td> CD </td>
         <td> Off, CD, Spd </td>
         <td> </td>
-        <td> </td>
+        <td> CD </td>
         <td> </td>
         <td> </td>
         <td> 3447+ phy dam, 222%+ CD, 180+ spd </td>
