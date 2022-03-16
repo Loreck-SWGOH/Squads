@@ -597,4 +597,4 @@ Back to [Teams](#teams),
 
 ## Counters
 
--- [CLS Rebels](CLS%20Rebels.md#)
+- [CLS Rebels](CLS%20Rebels.md#)
