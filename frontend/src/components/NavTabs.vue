@@ -17,9 +17,9 @@
 
 <script>
     import AllyCode from '@/components/AllyCode'
-    import ModDBApp from '@/components/ModDBApp'
+    import DesiredModApp from '@/components/DesiredModApp'
     import TeamModApp from '@/components/TeamModApp'
-    import DefModApp from '@/components/DefModApp'
+    import DefenseModApp from '@/components/DefenseModApp'
 
     export default {
         // Component name
@@ -28,9 +28,9 @@
         // Components used
         components: {
           AllyCode, 
-          ModDBApp,
+          DesiredModApp,
           TeamModApp,
-          DefModApp
+          DefenseModApp
         },
 
         // Internal data
@@ -38,9 +38,9 @@
             return {
                 // Entries dictate order of tabs
                 tabs: [
-                    { title: 'Team Database', comp: ModDBApp },
+                    { title: 'Team Database', comp: DesiredModApp },
                     { title: 'Team Mods', comp: TeamModApp },
-                    { title: 'Defense Mods', comp: DefModApp},
+                    { title: 'Defense Mods', comp: DefenseModApp},
                 ],
             }
         },

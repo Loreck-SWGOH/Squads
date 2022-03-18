@@ -11,7 +11,7 @@
 
     export default {
         // Component name
-        name: 'ModDBApp',
+        name: 'DesiredModApp',
     
         components: {
             ModDBIntro,
