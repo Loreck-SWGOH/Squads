@@ -1,3 +1,3 @@
 # Grand Arena Championships (GAC)
 
-[Back to Events](../README.md)
+[Back to Events](../../README.md)

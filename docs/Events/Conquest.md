@@ -1,6 +1,6 @@
 # Conquest
 
-[Back to Events](../README.md)
+[Back to Events](../../README.md)
 
 ## Easy
 

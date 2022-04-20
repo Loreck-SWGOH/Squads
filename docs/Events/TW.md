@@ -1,6 +1,6 @@
 # Territory War (TW) Teams
 
-[Back to Events](../README.md)
+[Back to Events](../../README.md)
 
 Territory Wars are a guild versus guild event. Each guild controls an area 
 comprised on a number of zones. There are two main phases, set-up and 

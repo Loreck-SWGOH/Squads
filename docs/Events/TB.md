@@ -1,6 +1,6 @@
 # Territory Battle (TB) Teams
 
-[Back to Events](../README.md)
+[Back to Events](../../README.md)
 
 Territory Battles are a player vs environment event where each member of
 the guild completes missions and deploys characters to earn stars. Earning
